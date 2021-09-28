@@ -1,0 +1,62 @@
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.exe.config
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.exe
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.pdb
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.Readers.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Contactless.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Contactless.Mifare.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Pcsc.Contactless.Mifare.DesFire.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.AdminView.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.LoginView.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.Main.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.Properties.Resources.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.CustomPreLoader.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.SideMenuButton.resources
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.exe
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.pdb
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.ActionHistoryPanel.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.exe.config
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.exe
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\CardReader2.pdb
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.Readers.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Contactless.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Contactless.Mifare.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Acs.SmartCards.Pcsc.Contactless.Mifare.DesFire.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\MetroFramework.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\MySql.Data.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.csprojAssemblyReference.cache
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.AdminView.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.LoginView.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.Main.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.Properties.Resources.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.ActionHistoryPanel.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.CustomPreLoader.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.SideMenuButton.resources
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.csproj.GenerateResource.cache
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.csproj.CopyComplete
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.exe
+C:\Users\Teknologika\Desktop\Tekno\Resorts World\Parking System\CardReader2\CardReader2\obj\Debug\CardReader2.pdb
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\bin\Debug\CardReader2.exe.config
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\bin\Debug\CardReader2.exe
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\bin\Debug\CardReader2.pdb
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.AdminView.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.LoginView.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.Main.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.Properties.Resources.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.ActionHistoryPanel.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.CustomPreLoader.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.SideMenuButton.resources
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.csproj.GenerateResource.Cache
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.exe
+C:\Users\Tekno2\Documents\MEGAsync\rw cardreader\CardReader2\obj\Debug\CardReader2.pdb
